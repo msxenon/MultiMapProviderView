@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Maps Test App</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="gMap_api">AIzaSyD_VbEbxy2UC7AEE1kdqeIcEK47VX1PkCc</string>
+    <string name="bMap_key">SmGeBXx5UvnObBj7MRpfxhjun8y3YgRG</string>
+    <string name="first_choice_provider">Google</string>
+    <string name="second_choice_provider">Open Street Map</string>
+    <string name="geo_first_choice_provider">Open street map</string>
+    <string name="geo_second_choice_provider">Google</string>
+    <string name="settings">Settings</string>
+    <string name="map_tile_provider">Map Tile Provider</string>
+    <string name="reverse_geo_coding_service">Reverse Geo-coding Service</string>
+</resources>
